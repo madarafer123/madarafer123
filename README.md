@@ -100,7 +100,7 @@
 ###
 
 <div align="center">
-  <img height="500" src="https://w.wallhaven.cc/full/85/wallhaven-856dlk.png"  />
+  <img height="300" src="https://w.wallhaven.cc/full/85/wallhaven-856dlk.png"  />
 </div>
 
 ###
