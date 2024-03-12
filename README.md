@@ -87,7 +87,7 @@
 
 ###
 
-<img align="right" height="150" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbzZnc3diZGFlOTY1dnBoeDBvMTBjNWU2aXV1YTVwbzRzZXYxMmk5eiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/5D8fDjKyQfuZW/giphy.gif"  />
+<img align="right" height="200" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"  />
 
 ###
 
@@ -99,8 +99,8 @@
 
 ###
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/madarafer123/madarafer123/output/snake.svg" alt="Snake animation" />
+<div align="center">
+  <img height="500" src="https://w.wallhaven.cc/full/85/wallhaven-856dlk.png"  />
+</div>
 
 ###
